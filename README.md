@@ -14,10 +14,10 @@
 ----------------------------------------------------------------------------
 
 ## Cómo clonar el repositorio y ejecutar el código
-### Clonación
-`git clone https://github.com/Toni2Morales/ProyectoNLP.git`
+### Clonación y creación de entorno virtual
+* `git clone https://github.com/Toni2Morales/ProyectoNLP.git`
 
-### Crear tu propio entorno virtual
+* Crear tu propio entorno virtual
     1. Abrir una terminal y crearlo: ```python -m venv env```
     2. Activarlo
         - Unix/MacOS: `. env/bin/activate`
